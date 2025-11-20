@@ -1,0 +1,226 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// User Model (Teachers and Students)
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  name      String
+  nameAr    String?
+  password  String
+  role      UserRole @default(STUDENT)
+  gradeLevel Int?    // Current grade for students
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  progress      StudentProgress[]
+  quizAttempts  QuizAttempt[]
+  badges        UserBadge[]
+  chatSessions  ChatSession[]
+
+  @@map("users")
+}
+
+enum UserRole {
+  STUDENT
+  TEACHER
+  ADMIN
+}
+
+// Subject Model
+model Subject {
+  id            String   @id @default(uuid())
+  name          String
+  nameAr        String
+  description   String?
+  descriptionAr String?
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Relations
+  grades Grade[]
+
+  @@map("subjects")
+}
+
+// Grade Model
+model Grade {
+  id        String   @id @default(uuid())
+  level     Int      // 1-12
+  name      String
+  nameAr    String
+  subjectId String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  subject  Subject   @relation(fields: [subjectId], references: [id])
+  chapters Chapter[]
+
+  @@map("grades")
+}
+
+// Chapter Model
+model Chapter {
+  id            String   @id @default(uuid())
+  title         String
+  titleAr       String
+  description   String?
+  descriptionAr String?
+  order         Int
+  gradeId       String
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Relations
+  grade   Grade    @relation(fields: [gradeId], references: [id])
+  lessons Lesson[]
+
+  @@map("chapters")
+}
+
+// Lesson Model
+model Lesson {
+  id            String   @id @default(uuid())
+  title         String
+  titleAr       String
+  content       String?  @db.Text
+  contentAr     String?  @db.Text
+  objectives    String[]
+  objectivesAr  String[]
+  order         Int
+  chapterId     String
+  embeddings    Float[]  // Vector embeddings for RAG
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
+
+  // Relations
+  chapter       Chapter           @relation(fields: [chapterId], references: [id])
+  exercises     Exercise[]
+  progress      StudentProgress[]
+  quizAttempts  QuizAttempt[]
+
+  @@map("lessons")
+}
+
+// Exercise Model
+model Exercise {
+  id             String           @id @default(uuid())
+  question       String           @db.Text
+  questionAr     String           @db.Text
+  questionLatex  String?          @db.Text
+  answer         String           @db.Text
+  answerLatex    String?          @db.Text
+  explanation    String?          @db.Text
+  explanationAr  String?          @db.Text
+  difficulty     ExerciseDifficulty
+  lessonId       String
+  createdAt      DateTime         @default(now())
+  updatedAt      DateTime         @updatedAt
+
+  // Relations
+  lesson Lesson @relation(fields: [lessonId], references: [id])
+
+  @@map("exercises")
+}
+
+enum ExerciseDifficulty {
+  EASY
+  MEDIUM
+  HARD
+}
+
+// Student Progress Model
+model StudentProgress {
+  id               String   @id @default(uuid())
+  studentId        String
+  lessonId         String
+  completed        Boolean  @default(false)
+  completedAt      DateTime?
+  timeSpent        Int      @default(0) // in minutes
+  pointsEarned     Int      @default(0)
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  // Relations
+  student User   @relation(fields: [studentId], references: [id])
+  lesson  Lesson @relation(fields: [lessonId], references: [id])
+
+  @@unique([studentId, lessonId])
+  @@map("student_progress")
+}
+
+// Quiz Attempt Model
+model QuizAttempt {
+  id             String   @id @default(uuid())
+  studentId      String
+  lessonId       String
+  score          Int
+  totalQuestions Int
+  answers        Json     // Store student answers
+  completedAt    DateTime @default(now())
+  createdAt      DateTime @default(now())
+
+  // Relations
+  student User   @relation(fields: [studentId], references: [id])
+  lesson  Lesson @relation(fields: [lessonId], references: [id])
+
+  @@map("quiz_attempts")
+}
+
+// Badge Model
+model Badge {
+  id          String   @id @default(uuid())
+  name        String
+  nameAr      String
+  description String
+  descriptionAr String
+  icon        String
+  criteria    Json     // Criteria to earn this badge
+  createdAt   DateTime @default(now())
+
+  // Relations
+  userBadges UserBadge[]
+
+  @@map("badges")
+}
+
+// User Badge (Many-to-Many)
+model UserBadge {
+  id        String   @id @default(uuid())
+  userId    String
+  badgeId   String
+  earnedAt  DateTime @default(now())
+
+  // Relations
+  user  User  @relation(fields: [userId], references: [id])
+  badge Badge @relation(fields: [badgeId], references: [id])
+
+  @@unique([userId, badgeId])
+  @@map("user_badges")
+}
+
+// Chat Session Model (for AI Tutor conversations)
+model ChatSession {
+  id        String   @id @default(uuid())
+  studentId String
+  lessonId  String?
+  messages  Json     // Array of chat messages
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  // Relations
+  student User @relation(fields: [studentId], references: [id])
+
+  @@map("chat_sessions")
+}
