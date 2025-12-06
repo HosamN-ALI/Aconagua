@@ -1,0 +1,2603 @@
+{
+  "video_url": "https://elhacker.info/Cursos/Certified Windows Internals Red Team Operator %5bCWI-RTO%5d/01. CWI-RTO Course Introduction/1. Welcome to the CWI-RTO Course.mp4",
+  "frames_analysis": {
+    "fps": 30.0,
+    "total_frames": 9663,
+    "duration": 322.1,
+    "frames": [
+      {
+        "timestamp": 0.0,
+        "time_formatted": "0:00:00",
+        "resolution": "1920x1080",
+        "brightness": 216.20812403549382,
+        "contrast": 56.68688892618539,
+        "avg_color_bgr": [
+          222.87619261188271,
+          241.0331534529321,
+          164.58438802083333
+        ],
+        "edge_density": 0.015767746913580245,
+        "scene_complexity": "low",
+        "filename": "frame_0000_0.00s.jpg",
+        "path": "video_analysis/frames/frame_0000_0.00s.jpg"
+      },
+      {
+        "timestamp": 2.0,
+        "time_formatted": "0:00:02",
+        "resolution": "1920x1080",
+        "brightness": 216.08069155092593,
+        "contrast": 56.8426271341679,
+        "avg_color_bgr": [
+          222.74618103780864,
+          241.04015046296297,
+          164.19673852237653
+        ],
+        "edge_density": 0.015653452932098764,
+        "scene_complexity": "low",
+        "filename": "frame_0001_2.00s.jpg",
+        "path": "video_analysis/frames/frame_0001_2.00s.jpg"
+      },
+      {
+        "timestamp": 4.0,
+        "time_formatted": "0:00:04",
+        "resolution": "1920x1080",
+        "brightness": 216.11060570987655,
+        "contrast": 56.85806474547574,
+        "avg_color_bgr": [
+          222.7596310763889,
+          241.07336371527776,
+          164.2238102816358
+        ],
+        "edge_density": 0.015651523919753087,
+        "scene_complexity": "low",
+        "filename": "frame_0002_4.00s.jpg",
+        "path": "video_analysis/frames/frame_0002_4.00s.jpg"
+      },
+      {
+        "timestamp": 6.0,
+        "time_formatted": "0:00:06",
+        "resolution": "1920x1080",
+        "brightness": 215.96364583333335,
+        "contrast": 56.8979748378014,
+        "avg_color_bgr": [
+          222.59788483796297,
+          240.8686757330247,
+          164.19573977623457
+        ],
+        "edge_density": 0.01607590663580247,
+        "scene_complexity": "low",
+        "filename": "frame_0003_6.00s.jpg",
+        "path": "video_analysis/frames/frame_0003_6.00s.jpg"
+      },
+      {
+        "timestamp": 8.0,
+        "time_formatted": "0:00:08",
+        "resolution": "1920x1080",
+        "brightness": 216.1072685185185,
+        "contrast": 56.86087217714656,
+        "avg_color_bgr": [
+          222.75826822916667,
+          241.0687533757716,
+          164.22141830632717
+        ],
+        "edge_density": 0.01566599151234568,
+        "scene_complexity": "low",
+        "filename": "frame_0004_8.00s.jpg",
+        "path": "video_analysis/frames/frame_0004_8.00s.jpg"
+      },
+      {
+        "timestamp": 10.0,
+        "time_formatted": "0:00:10",
+        "resolution": "1920x1080",
+        "brightness": 216.1213276427469,
+        "contrast": 56.84837715823707,
+        "avg_color_bgr": [
+          222.77731915509258,
+          241.0840808256173,
+          164.22496238425927
+        ],
+        "edge_density": 0.015652488425925926,
+        "scene_complexity": "low",
+        "filename": "frame_0005_10.00s.jpg",
+        "path": "video_analysis/frames/frame_0005_10.00s.jpg"
+      },
+      {
+        "timestamp": 12.0,
+        "time_formatted": "0:00:12",
+        "resolution": "1920x1080",
+        "brightness": 216.12566599151234,
+        "contrast": 56.84000291299125,
+        "avg_color_bgr": [
+          222.77983410493826,
+          241.08933690200618,
+          164.2270842978395
+        ],
+        "edge_density": 0.01564670138888889,
+        "scene_complexity": "low",
+        "filename": "frame_0006_12.00s.jpg",
+        "path": "video_analysis/frames/frame_0006_12.00s.jpg"
+      },
+      {
+        "timestamp": 14.0,
+        "time_formatted": "0:00:14",
+        "resolution": "1920x1080",
+        "brightness": 216.13185474537036,
+        "contrast": 56.847041489360706,
+        "avg_color_bgr": [
+          222.7874961419753,
+          241.09841676311729,
+          164.2270886381173
+        ],
+        "edge_density": 0.01562885802469136,
+        "scene_complexity": "low",
+        "filename": "frame_0007_14.00s.jpg",
+        "path": "video_analysis/frames/frame_0007_14.00s.jpg"
+      },
+      {
+        "timestamp": 16.0,
+        "time_formatted": "0:00:16",
+        "resolution": "1920x1080",
+        "brightness": 148.3736868248457,
+        "contrast": 107.90976537008665,
+        "avg_color_bgr": [
+          149.33877314814814,
+          147.58320553626544,
+          149.56847800925925
+        ],
+        "edge_density": 0.023971836419753086,
+        "scene_complexity": "low",
+        "filename": "frame_0008_16.00s.jpg",
+        "path": "video_analysis/frames/frame_0008_16.00s.jpg"
+      },
+      {
+        "timestamp": 18.0,
+        "time_formatted": "0:00:18",
+        "resolution": "1920x1080",
+        "brightness": 148.3794926697531,
+        "contrast": 107.92377452091537,
+        "avg_color_bgr": [
+          149.34596836419752,
+          147.5875708912037,
+          149.5726355131173
+        ],
+        "edge_density": 0.024600212191358026,
+        "scene_complexity": "low",
+        "filename": "frame_0009_18.00s.jpg",
+        "path": "video_analysis/frames/frame_0009_18.00s.jpg"
+      },
+      {
+        "timestamp": 20.0,
+        "time_formatted": "0:00:20",
+        "resolution": "1920x1080",
+        "brightness": 148.38815827546296,
+        "contrast": 107.93067296634803,
+        "avg_color_bgr": [
+          149.35480661651235,
+          147.5965552662037,
+          149.58084972993828
+        ],
+        "edge_density": 0.024557773919753088,
+        "scene_complexity": "low",
+        "filename": "frame_0010_20.00s.jpg",
+        "path": "video_analysis/frames/frame_0010_20.00s.jpg"
+      },
+      {
+        "timestamp": 22.0,
+        "time_formatted": "0:00:22",
+        "resolution": "1920x1080",
+        "brightness": 148.38467833719136,
+        "contrast": 107.92852068952352,
+        "avg_color_bgr": [
+          149.35216869212962,
+          147.59154320987653,
+          149.57817226080246
+        ],
+        "edge_density": 0.02433304398148148,
+        "scene_complexity": "low",
+        "filename": "frame_0011_22.00s.jpg",
+        "path": "video_analysis/frames/frame_0011_22.00s.jpg"
+      },
+      {
+        "timestamp": 24.0,
+        "time_formatted": "0:00:24",
+        "resolution": "1920x1080",
+        "brightness": 148.37778886959876,
+        "contrast": 107.92305706363052,
+        "avg_color_bgr": [
+          149.35011284722222,
+          147.5855039544753,
+          149.57182677469135
+        ],
+        "edge_density": 0.024632040895061727,
+        "scene_complexity": "low",
+        "filename": "frame_0012_24.00s.jpg",
+        "path": "video_analysis/frames/frame_0012_24.00s.jpg"
+      },
+      {
+        "timestamp": 26.0,
+        "time_formatted": "0:00:26",
+        "resolution": "1920x1080",
+        "brightness": 148.3862070794753,
+        "contrast": 107.92965402802656,
+        "avg_color_bgr": [
+          149.35646556712962,
+          147.59473090277777,
+          149.5797198109568
+        ],
+        "edge_density": 0.024624807098765432,
+        "scene_complexity": "low",
+        "filename": "frame_0013_26.00s.jpg",
+        "path": "video_analysis/frames/frame_0013_26.00s.jpg"
+      },
+      {
+        "timestamp": 28.0,
+        "time_formatted": "0:00:28",
+        "resolution": "1920x1080",
+        "brightness": 148.38751880787038,
+        "contrast": 107.9300006258483,
+        "avg_color_bgr": [
+          149.3574715470679,
+          147.59617959104938,
+          149.58034722222223
+        ],
+        "edge_density": 0.02441454475308642,
+        "scene_complexity": "low",
+        "filename": "frame_0014_28.00s.jpg",
+        "path": "video_analysis/frames/frame_0014_28.00s.jpg"
+      },
+      {
+        "timestamp": 30.0,
+        "time_formatted": "0:00:30",
+        "resolution": "1920x1080",
+        "brightness": 148.37493055555555,
+        "contrast": 107.92235026322281,
+        "avg_color_bgr": [
+          149.34335117669752,
+          147.58202112268518,
+          149.56736738040124
+        ],
+        "edge_density": 0.024602141203703704,
+        "scene_complexity": "low",
+        "filename": "frame_0015_30.00s.jpg",
+        "path": "video_analysis/frames/frame_0015_30.00s.jpg"
+      },
+      {
+        "timestamp": 32.0,
+        "time_formatted": "0:00:32",
+        "resolution": "1920x1080",
+        "brightness": 148.38062934027778,
+        "contrast": 107.92706202286752,
+        "avg_color_bgr": [
+          149.3486043595679,
+          147.58753279320987,
+          149.57312065972224
+        ],
+        "edge_density": 0.02458767361111111,
+        "scene_complexity": "low",
+        "filename": "frame_0016_32.00s.jpg",
+        "path": "video_analysis/frames/frame_0016_32.00s.jpg"
+      },
+      {
+        "timestamp": 34.0,
+        "time_formatted": "0:00:34",
+        "resolution": "1920x1080",
+        "brightness": 148.38321614583333,
+        "contrast": 107.92686549849756,
+        "avg_color_bgr": [
+          149.35324652777777,
+          147.59179253472223,
+          149.5756568287037
+        ],
+        "edge_density": 0.02456645447530864,
+        "scene_complexity": "low",
+        "filename": "frame_0017_34.00s.jpg",
+        "path": "video_analysis/frames/frame_0017_34.00s.jpg"
+      },
+      {
+        "timestamp": 36.0,
+        "time_formatted": "0:00:36",
+        "resolution": "1920x1080",
+        "brightness": 148.37882667824073,
+        "contrast": 107.92515328730288,
+        "avg_color_bgr": [
+          149.34519724151235,
+          147.58730179398148,
+          149.57252652391975
+        ],
+        "edge_density": 0.024617091049382717,
+        "scene_complexity": "low",
+        "filename": "frame_0018_36.00s.jpg",
+        "path": "video_analysis/frames/frame_0018_36.00s.jpg"
+      },
+      {
+        "timestamp": 38.0,
+        "time_formatted": "0:00:38",
+        "resolution": "1920x1080",
+        "brightness": 148.3847265625,
+        "contrast": 107.92976854113621,
+        "avg_color_bgr": [
+          149.35153260030864,
+          147.59358844521606,
+          149.57767264660495
+        ],
+        "edge_density": 0.024480613425925925,
+        "scene_complexity": "low",
+        "filename": "frame_0019_38.00s.jpg",
+        "path": "video_analysis/frames/frame_0019_38.00s.jpg"
+      },
+      {
+        "timestamp": 40.0,
+        "time_formatted": "0:00:40",
+        "resolution": "1920x1080",
+        "brightness": 148.38573640046297,
+        "contrast": 107.9243141388116,
+        "avg_color_bgr": [
+          149.354503279321,
+          147.59489583333334,
+          149.57721016589505
+        ],
+        "edge_density": 0.024408275462962963,
+        "scene_complexity": "low",
+        "filename": "frame_0020_40.00s.jpg",
+        "path": "video_analysis/frames/frame_0020_40.00s.jpg"
+      },
+      {
+        "timestamp": 42.0,
+        "time_formatted": "0:00:42",
+        "resolution": "1920x1080",
+        "brightness": 249.19265432098766,
+        "contrast": 28.20103144618939,
+        "avg_color_bgr": [
+          248.56935136959876,
+          248.46881172839505,
+          250.87184365354938
+        ],
+        "edge_density": 0.01793258101851852,
+        "scene_complexity": "low",
+        "filename": "frame_0021_42.00s.jpg",
+        "path": "video_analysis/frames/frame_0021_42.00s.jpg"
+      },
+      {
+        "timestamp": 44.0,
+        "time_formatted": "0:00:44",
+        "resolution": "1920x1080",
+        "brightness": 248.80408227237655,
+        "contrast": 29.32714402331428,
+        "avg_color_bgr": [
+          248.18318479938273,
+          248.07158950617284,
+          250.50162133487655
+        ],
+        "edge_density": 0.018539255401234567,
+        "scene_complexity": "low",
+        "filename": "frame_0022_44.00s.jpg",
+        "path": "video_analysis/frames/frame_0022_44.00s.jpg"
+      },
+      {
+        "timestamp": 46.0,
+        "time_formatted": "0:00:46",
+        "resolution": "1920x1080",
+        "brightness": 248.4280541087963,
+        "contrast": 30.430067020651343,
+        "avg_color_bgr": [
+          247.80892650462962,
+          247.71386188271606,
+          250.09611641589507
+        ],
+        "edge_density": 0.018974729938271605,
+        "scene_complexity": "low",
+        "filename": "frame_0023_46.00s.jpg",
+        "path": "video_analysis/frames/frame_0023_46.00s.jpg"
+      },
+      {
+        "timestamp": 48.0,
+        "time_formatted": "0:00:48",
+        "resolution": "1920x1080",
+        "brightness": 249.15252314814813,
+        "contrast": 28.315418263868153,
+        "avg_color_bgr": [
+          248.5104292052469,
+          248.42562210648148,
+          250.8523331404321
+        ],
+        "edge_density": 0.01804301697530864,
+        "scene_complexity": "low",
+        "filename": "frame_0024_48.00s.jpg",
+        "path": "video_analysis/frames/frame_0024_48.00s.jpg"
+      },
+      {
+        "timestamp": 50.0,
+        "time_formatted": "0:00:50",
+        "resolution": "1920x1080",
+        "brightness": 249.13170669367284,
+        "contrast": 28.334727421619746,
+        "avg_color_bgr": [
+          248.49928385416666,
+          248.40197530864197,
+          250.8356925154321
+        ],
+        "edge_density": 0.01810281635802469,
+        "scene_complexity": "low",
+        "filename": "frame_0025_50.00s.jpg",
+        "path": "video_analysis/frames/frame_0025_50.00s.jpg"
+      },
+      {
+        "timestamp": 52.0,
+        "time_formatted": "0:00:52",
+        "resolution": "1920x1080",
+        "brightness": 249.15909047067902,
+        "contrast": 28.29651365475624,
+        "avg_color_bgr": [
+          248.5228303433642,
+          248.42425540123457,
+          250.86226610725308
+        ],
+        "edge_density": 0.018087866512345677,
+        "scene_complexity": "low",
+        "filename": "frame_0026_52.00s.jpg",
+        "path": "video_analysis/frames/frame_0026_52.00s.jpg"
+      },
+      {
+        "timestamp": 54.0,
+        "time_formatted": "0:00:54",
+        "resolution": "1920x1080",
+        "brightness": 248.88944878472222,
+        "contrast": 29.022188875426497,
+        "avg_color_bgr": [
+          248.27221981095678,
+          248.17420187114197,
+          250.54942370756171
+        ],
+        "edge_density": 0.018444733796296298,
+        "scene_complexity": "low",
+        "filename": "frame_0027_54.00s.jpg",
+        "path": "video_analysis/frames/frame_0027_54.00s.jpg"
+      },
+      {
+        "timestamp": 56.0,
+        "time_formatted": "0:00:56",
+        "resolution": "1920x1080",
+        "brightness": 249.17206114969136,
+        "contrast": 28.173263843875652,
+        "avg_color_bgr": [
+          248.53950135030865,
+          248.46090808256173,
+          250.83179639274692
+        ],
+        "edge_density": 0.01810329861111111,
+        "scene_complexity": "low",
+        "filename": "frame_0028_56.00s.jpg",
+        "path": "video_analysis/frames/frame_0028_56.00s.jpg"
+      },
+      {
+        "timestamp": 58.0,
+        "time_formatted": "0:00:58",
+        "resolution": "1920x1080",
+        "brightness": 148.37693672839507,
+        "contrast": 107.91843276257133,
+        "avg_color_bgr": [
+          149.346261091821,
+          147.58374083719136,
+          149.57656153549382
+        ],
+        "edge_density": 0.024400559413580245,
+        "scene_complexity": "low",
+        "filename": "frame_0029_58.00s.jpg",
+        "path": "video_analysis/frames/frame_0029_58.00s.jpg"
+      },
+      {
+        "timestamp": 60.0,
+        "time_formatted": "0:01:00",
+        "resolution": "1920x1080",
+        "brightness": 148.37711805555554,
+        "contrast": 107.92196212406586,
+        "avg_color_bgr": [
+          149.3501388888889,
+          147.58394097222222,
+          149.57253086419752
+        ],
+        "edge_density": 0.0247608024691358,
+        "scene_complexity": "low",
+        "filename": "frame_0030_60.00s.jpg",
+        "path": "video_analysis/frames/frame_0030_60.00s.jpg"
+      },
+      {
+        "timestamp": 62.0,
+        "time_formatted": "0:01:02",
+        "resolution": "1920x1080",
+        "brightness": 148.38378038194443,
+        "contrast": 107.92692161317052,
+        "avg_color_bgr": [
+          149.35474971064815,
+          147.59138406635802,
+          149.57918788580247
+        ],
+        "edge_density": 0.024739583333333332,
+        "scene_complexity": "low",
+        "filename": "frame_0031_62.00s.jpg",
+        "path": "video_analysis/frames/frame_0031_62.00s.jpg"
+      },
+      {
+        "timestamp": 64.0,
+        "time_formatted": "0:01:04",
+        "resolution": "1920x1080",
+        "brightness": 148.39314814814816,
+        "contrast": 107.93238655760968,
+        "avg_color_bgr": [
+          149.3644999035494,
+          147.60064380787037,
+          149.58635464891975
+        ],
+        "edge_density": 0.024573206018518517,
+        "scene_complexity": "low",
+        "filename": "frame_0032_64.00s.jpg",
+        "path": "video_analysis/frames/frame_0032_64.00s.jpg"
+      },
+      {
+        "timestamp": 66.0,
+        "time_formatted": "0:01:06",
+        "resolution": "1920x1080",
+        "brightness": 148.38066743827162,
+        "contrast": 107.9218359698676,
+        "avg_color_bgr": [
+          149.3518296682099,
+          147.58716049382716,
+          149.5757990933642
+        ],
+        "edge_density": 0.024581886574074074,
+        "scene_complexity": "low",
+        "filename": "frame_0033_66.00s.jpg",
+        "path": "video_analysis/frames/frame_0033_66.00s.jpg"
+      },
+      {
+        "timestamp": 68.0,
+        "time_formatted": "0:01:08",
+        "resolution": "1920x1080",
+        "brightness": 148.38378809799383,
+        "contrast": 107.9272457625769,
+        "avg_color_bgr": [
+          149.35318479938272,
+          147.59101032021604,
+          149.57876929012346
+        ],
+        "edge_density": 0.02459249614197531,
+        "scene_complexity": "low",
+        "filename": "frame_0034_68.00s.jpg",
+        "path": "video_analysis/frames/frame_0034_68.00s.jpg"
+      },
+      {
+        "timestamp": 70.0,
+        "time_formatted": "0:01:10",
+        "resolution": "1920x1080",
+        "brightness": 148.3817862654321,
+        "contrast": 107.92630621206693,
+        "avg_color_bgr": [
+          149.3493957368827,
+          147.58971643518518,
+          149.57623070987654
+        ],
+        "edge_density": 0.024403452932098765,
+        "scene_complexity": "low",
+        "filename": "frame_0035_70.00s.jpg",
+        "path": "video_analysis/frames/frame_0035_70.00s.jpg"
+      },
+      {
+        "timestamp": 72.0,
+        "time_formatted": "0:01:12",
+        "resolution": "1920x1080",
+        "brightness": 148.3742505787037,
+        "contrast": 107.92032697553277,
+        "avg_color_bgr": [
+          149.3398832947531,
+          147.58214988425925,
+          149.56922453703703
+        ],
+        "edge_density": 0.02451437114197531,
+        "scene_complexity": "low",
+        "filename": "frame_0036_72.00s.jpg",
+        "path": "video_analysis/frames/frame_0036_72.00s.jpg"
+      },
+      {
+        "timestamp": 74.0,
+        "time_formatted": "0:01:14",
+        "resolution": "1920x1080",
+        "brightness": 148.39619791666667,
+        "contrast": 107.93448467863983,
+        "avg_color_bgr": [
+          149.35989149305556,
+          147.60494212962962,
+          149.59088155864197
+        ],
+        "edge_density": 0.02447386188271605,
+        "scene_complexity": "low",
+        "filename": "frame_0037_74.00s.jpg",
+        "path": "video_analysis/frames/frame_0037_74.00s.jpg"
+      },
+      {
+        "timestamp": 76.0,
+        "time_formatted": "0:01:16",
+        "resolution": "1920x1080",
+        "brightness": 148.39063319830248,
+        "contrast": 107.93064592772741,
+        "avg_color_bgr": [
+          149.3619603587963,
+          147.59880256558642,
+          149.58193287037037
+        ],
+        "edge_density": 0.024461323302469137,
+        "scene_complexity": "low",
+        "filename": "frame_0038_76.00s.jpg",
+        "path": "video_analysis/frames/frame_0038_76.00s.jpg"
+      },
+      {
+        "timestamp": 78.0,
+        "time_formatted": "0:01:18",
+        "resolution": "1920x1080",
+        "brightness": 148.37937258873455,
+        "contrast": 107.92388577648384,
+        "avg_color_bgr": [
+          149.35087432484568,
+          147.58607831790124,
+          149.57160252700618
+        ],
+        "edge_density": 0.024613715277777778,
+        "scene_complexity": "low",
+        "filename": "frame_0039_78.00s.jpg",
+        "path": "video_analysis/frames/frame_0039_78.00s.jpg"
+      },
+      {
+        "timestamp": 80.0,
+        "time_formatted": "0:01:20",
+        "resolution": "1920x1080",
+        "brightness": 148.3857634066358,
+        "contrast": 107.92813686612361,
+        "avg_color_bgr": [
+          149.3561863425926,
+          147.59301070601853,
+          149.5776176697531
+        ],
+        "edge_density": 0.02458381558641975,
+        "scene_complexity": "low",
+        "filename": "frame_0040_80.00s.jpg",
+        "path": "video_analysis/frames/frame_0040_80.00s.jpg"
+      },
+      {
+        "timestamp": 82.0,
+        "time_formatted": "0:01:22",
+        "resolution": "1920x1080",
+        "brightness": 148.38314766589505,
+        "contrast": 107.927455519648,
+        "avg_color_bgr": [
+          149.3602097800926,
+          147.58827064043209,
+          149.57726658950617
+        ],
+        "edge_density": 0.024241898148148148,
+        "scene_complexity": "low",
+        "filename": "frame_0041_82.00s.jpg",
+        "path": "video_analysis/frames/frame_0041_82.00s.jpg"
+      },
+      {
+        "timestamp": 84.0,
+        "time_formatted": "0:01:24",
+        "resolution": "1920x1080",
+        "brightness": 148.36959780092593,
+        "contrast": 107.91714843080423,
+        "avg_color_bgr": [
+          149.33769000771605,
+          147.57701871141975,
+          149.56390190972223
+        ],
+        "edge_density": 0.024539930555555554,
+        "scene_complexity": "low",
+        "filename": "frame_0042_84.00s.jpg",
+        "path": "video_analysis/frames/frame_0042_84.00s.jpg"
+      },
+      {
+        "timestamp": 86.0,
+        "time_formatted": "0:01:26",
+        "resolution": "1920x1080",
+        "brightness": 148.38314718364197,
+        "contrast": 107.92744870495623,
+        "avg_color_bgr": [
+          149.35060185185185,
+          147.59086709104938,
+          149.57699363425925
+        ],
+        "edge_density": 0.02453125,
+        "scene_complexity": "low",
+        "filename": "frame_0043_86.00s.jpg",
+        "path": "video_analysis/frames/frame_0043_86.00s.jpg"
+      },
+      {
+        "timestamp": 88.0,
+        "time_formatted": "0:01:28",
+        "resolution": "1920x1080",
+        "brightness": 148.3859620949074,
+        "contrast": 107.92919164314883,
+        "avg_color_bgr": [
+          149.35217110339505,
+          147.59453751929013,
+          149.58011911651235
+        ],
+        "edge_density": 0.02456693672839506,
+        "scene_complexity": "low",
+        "filename": "frame_0044_88.00s.jpg",
+        "path": "video_analysis/frames/frame_0044_88.00s.jpg"
+      },
+      {
+        "timestamp": 90.0,
+        "time_formatted": "0:01:30",
+        "resolution": "1920x1080",
+        "brightness": 148.37653549382716,
+        "contrast": 107.9217048219576,
+        "avg_color_bgr": [
+          149.3432855902778,
+          147.58380883487655,
+          149.57069058641974
+        ],
+        "edge_density": 0.02457465277777778,
+        "scene_complexity": "low",
+        "filename": "frame_0045_90.00s.jpg",
+        "path": "video_analysis/frames/frame_0045_90.00s.jpg"
+      },
+      {
+        "timestamp": 92.0,
+        "time_formatted": "0:01:32",
+        "resolution": "1920x1080",
+        "brightness": 148.38795862268518,
+        "contrast": 107.93147062932191,
+        "avg_color_bgr": [
+          149.3516589506173,
+          147.59650366512346,
+          149.58023630401235
+        ],
+        "edge_density": 0.024557773919753088,
+        "scene_complexity": "low",
+        "filename": "frame_0046_92.00s.jpg",
+        "path": "video_analysis/frames/frame_0046_92.00s.jpg"
+      },
+      {
+        "timestamp": 94.0,
+        "time_formatted": "0:01:34",
+        "resolution": "1920x1080",
+        "brightness": 148.38439091435185,
+        "contrast": 107.92773552419406,
+        "avg_color_bgr": [
+          149.35025800540123,
+          147.59163821373457,
+          149.57968123070987
+        ],
+        "edge_density": 0.024268904320987654,
+        "scene_complexity": "low",
+        "filename": "frame_0047_94.00s.jpg",
+        "path": "video_analysis/frames/frame_0047_94.00s.jpg"
+      },
+      {
+        "timestamp": 96.0,
+        "time_formatted": "0:01:36",
+        "resolution": "1920x1080",
+        "brightness": 148.37386525848765,
+        "contrast": 107.92017997346635,
+        "avg_color_bgr": [
+          149.34175684799382,
+          147.58037519290124,
+          149.5684129050926
+        ],
+        "edge_density": 0.02454957561728395,
+        "scene_complexity": "low",
+        "filename": "frame_0048_96.00s.jpg",
+        "path": "video_analysis/frames/frame_0048_96.00s.jpg"
+      },
+      {
+        "timestamp": 98.0,
+        "time_formatted": "0:01:38",
+        "resolution": "1920x1080",
+        "brightness": 148.3848577353395,
+        "contrast": 107.92855856639038,
+        "avg_color_bgr": [
+          149.35183449074074,
+          147.59175829475308,
+          149.57990644290123
+        ],
+        "edge_density": 0.024534625771604937,
+        "scene_complexity": "low",
+        "filename": "frame_0049_98.00s.jpg",
+        "path": "video_analysis/frames/frame_0049_98.00s.jpg"
+      },
+      {
+        "timestamp": 100.0,
+        "time_formatted": "0:01:40",
+        "resolution": "1920x1080",
+        "brightness": 148.38808834876542,
+        "contrast": 107.9311491242629,
+        "avg_color_bgr": [
+          149.3532961998457,
+          147.5952907986111,
+          149.58267698688272
+        ],
+        "edge_density": 0.024660011574074076,
+        "scene_complexity": "low",
+        "filename": "frame_0050_100.00s.jpg",
+        "path": "video_analysis/frames/frame_0050_100.00s.jpg"
+      },
+      {
+        "timestamp": 102.0,
+        "time_formatted": "0:01:42",
+        "resolution": "1920x1080",
+        "brightness": 148.36537471064815,
+        "contrast": 107.9146662104977,
+        "avg_color_bgr": [
+          149.33699701003087,
+          147.5719714506173,
+          149.55816647376543
+        ],
+        "edge_density": 0.024578028549382715,
+        "scene_complexity": "low",
+        "filename": "frame_0051_102.00s.jpg",
+        "path": "video_analysis/frames/frame_0051_102.00s.jpg"
+      },
+      {
+        "timestamp": 104.0,
+        "time_formatted": "0:01:44",
+        "resolution": "1920x1080",
+        "brightness": 148.39261043595678,
+        "contrast": 107.9319230112405,
+        "avg_color_bgr": [
+          149.36404610339505,
+          147.60009018132715,
+          149.58514419367285
+        ],
+        "edge_density": 0.02449122299382716,
+        "scene_complexity": "low",
+        "filename": "frame_0052_104.00s.jpg",
+        "path": "video_analysis/frames/frame_0052_104.00s.jpg"
+      },
+      {
+        "timestamp": 106.0,
+        "time_formatted": "0:01:46",
+        "resolution": "1920x1080",
+        "brightness": 148.38213300540124,
+        "contrast": 107.92743694075895,
+        "avg_color_bgr": [
+          149.35056182484567,
+          147.58942611882716,
+          149.57547791280865
+        ],
+        "edge_density": 0.02411988811728395,
+        "scene_complexity": "low",
+        "filename": "frame_0053_106.00s.jpg",
+        "path": "video_analysis/frames/frame_0053_106.00s.jpg"
+      },
+      {
+        "timestamp": 108.0,
+        "time_formatted": "0:01:48",
+        "resolution": "1920x1080",
+        "brightness": 148.37014419367284,
+        "contrast": 107.91690055176484,
+        "avg_color_bgr": [
+          149.34422984182098,
+          147.57642505787038,
+          149.5638247492284
+        ],
+        "edge_density": 0.024321952160493827,
+        "scene_complexity": "low",
+        "filename": "frame_0054_108.00s.jpg",
+        "path": "video_analysis/frames/frame_0054_108.00s.jpg"
+      },
+      {
+        "timestamp": 110.0,
+        "time_formatted": "0:01:50",
+        "resolution": "1920x1080",
+        "brightness": 148.3831741898148,
+        "contrast": 107.92693964972081,
+        "avg_color_bgr": [
+          149.3565485146605,
+          147.58971981095678,
+          149.57660638503086
+        ],
+        "edge_density": 0.02437644675925926,
+        "scene_complexity": "low",
+        "filename": "frame_0055_110.00s.jpg",
+        "path": "video_analysis/frames/frame_0055_110.00s.jpg"
+      },
+      {
+        "timestamp": 112.0,
+        "time_formatted": "0:01:52",
+        "resolution": "1920x1080",
+        "brightness": 148.3832489390432,
+        "contrast": 107.92700169290926,
+        "avg_color_bgr": [
+          149.35036265432097,
+          147.59035204475308,
+          149.57787760416667
+        ],
+        "edge_density": 0.02474778163580247,
+        "scene_complexity": "low",
+        "filename": "frame_0056_112.00s.jpg",
+        "path": "video_analysis/frames/frame_0056_112.00s.jpg"
+      },
+      {
+        "timestamp": 114.0,
+        "time_formatted": "0:01:54",
+        "resolution": "1920x1080",
+        "brightness": 148.368845003858,
+        "contrast": 107.91566589495072,
+        "avg_color_bgr": [
+          149.33646846064815,
+          147.57654899691357,
+          149.5605724344136
+        ],
+        "edge_density": 0.024577064043209876,
+        "scene_complexity": "low",
+        "filename": "frame_0057_114.00s.jpg",
+        "path": "video_analysis/frames/frame_0057_114.00s.jpg"
+      },
+      {
+        "timestamp": 116.0,
+        "time_formatted": "0:01:56",
+        "resolution": "1920x1080",
+        "brightness": 148.39315923996912,
+        "contrast": 107.92775526195906,
+        "avg_color_bgr": [
+          149.3613917824074,
+          147.60140383873457,
+          149.58430989583334
+        ],
+        "edge_density": 0.02457175925925926,
+        "scene_complexity": "low",
+        "filename": "frame_0058_116.00s.jpg",
+        "path": "video_analysis/frames/frame_0058_116.00s.jpg"
+      },
+      {
+        "timestamp": 118.0,
+        "time_formatted": "0:01:58",
+        "resolution": "1920x1080",
+        "brightness": 148.38853443287036,
+        "contrast": 107.93168284096471,
+        "avg_color_bgr": [
+          149.3551880787037,
+          147.59567901234567,
+          149.58502989969136
+        ],
+        "edge_density": 0.024618055555555556,
+        "scene_complexity": "low",
+        "filename": "frame_0059_118.00s.jpg",
+        "path": "video_analysis/frames/frame_0059_118.00s.jpg"
+      },
+      {
+        "timestamp": 120.0,
+        "time_formatted": "0:02:00",
+        "resolution": "1920x1080",
+        "brightness": 148.3714101080247,
+        "contrast": 107.91778974434568,
+        "avg_color_bgr": [
+          149.3416300154321,
+          147.57865258487655,
+          149.56460407021606
+        ],
+        "edge_density": 0.024714023919753088,
+        "scene_complexity": "low",
+        "filename": "frame_0060_120.00s.jpg",
+        "path": "video_analysis/frames/frame_0060_120.00s.jpg"
+      },
+      {
+        "timestamp": 122.0,
+        "time_formatted": "0:02:02",
+        "resolution": "1920x1080",
+        "brightness": 148.38320842978396,
+        "contrast": 107.92676838877769,
+        "avg_color_bgr": [
+          149.3536892361111,
+          147.59217062114197,
+          149.57298032407408
+        ],
+        "edge_density": 0.024592978395061728,
+        "scene_complexity": "low",
+        "filename": "frame_0061_122.00s.jpg",
+        "path": "video_analysis/frames/frame_0061_122.00s.jpg"
+      },
+      {
+        "timestamp": 124.0,
+        "time_formatted": "0:02:04",
+        "resolution": "1920x1080",
+        "brightness": 148.39017650462964,
+        "contrast": 107.9333983389494,
+        "avg_color_bgr": [
+          149.35675588348766,
+          147.59852816358026,
+          149.58225405092594
+        ],
+        "edge_density": 0.024249131944444443,
+        "scene_complexity": "low",
+        "filename": "frame_0062_124.00s.jpg",
+        "path": "video_analysis/frames/frame_0062_124.00s.jpg"
+      },
+      {
+        "timestamp": 126.0,
+        "time_formatted": "0:02:06",
+        "resolution": "1920x1080",
+        "brightness": 148.37325906635803,
+        "contrast": 107.91985095852444,
+        "avg_color_bgr": [
+          149.34278356481482,
+          147.57866946373457,
+          149.56561728395062
+        ],
+        "edge_density": 0.024234182098765433,
+        "scene_complexity": "low",
+        "filename": "frame_0063_126.00s.jpg",
+        "path": "video_analysis/frames/frame_0063_126.00s.jpg"
+      },
+      {
+        "timestamp": 128.0,
+        "time_formatted": "0:02:08",
+        "resolution": "1920x1080",
+        "brightness": 148.38474151234567,
+        "contrast": 107.9284843406527,
+        "avg_color_bgr": [
+          149.35455005787037,
+          147.59080054012347,
+          149.57681327160495
+        ],
+        "edge_density": 0.024217785493827162,
+        "scene_complexity": "low",
+        "filename": "frame_0064_128.00s.jpg",
+        "path": "video_analysis/frames/frame_0064_128.00s.jpg"
+      },
+      {
+        "timestamp": 130.0,
+        "time_formatted": "0:02:10",
+        "resolution": "1920x1080",
+        "brightness": 148.3835980902778,
+        "contrast": 107.92881303631206,
+        "avg_color_bgr": [
+          149.3531105324074,
+          147.5905758101852,
+          149.57872685185185
+        ],
+        "edge_density": 0.024485918209876542,
+        "scene_complexity": "low",
+        "filename": "frame_0065_130.00s.jpg",
+        "path": "video_analysis/frames/frame_0065_130.00s.jpg"
+      },
+      {
+        "timestamp": 132.0,
+        "time_formatted": "0:02:12",
+        "resolution": "1920x1080",
+        "brightness": 148.37583285108025,
+        "contrast": 107.921631683457,
+        "avg_color_bgr": [
+          149.34409288194445,
+          147.58088686342592,
+          149.57166956018517
+        ],
+        "edge_density": 0.0243383487654321,
+        "scene_complexity": "low",
+        "filename": "frame_0066_132.00s.jpg",
+        "path": "video_analysis/frames/frame_0066_132.00s.jpg"
+      },
+      {
+        "timestamp": 134.0,
+        "time_formatted": "0:02:14",
+        "resolution": "1920x1080",
+        "brightness": 148.3892722800926,
+        "contrast": 107.93155316663928,
+        "avg_color_bgr": [
+          149.35600212191358,
+          147.59575424382717,
+          149.58378761574073
+        ],
+        "edge_density": 0.02431327160493827,
+        "scene_complexity": "low",
+        "filename": "frame_0067_134.00s.jpg",
+        "path": "video_analysis/frames/frame_0067_134.00s.jpg"
+      },
+      {
+        "timestamp": 136.0,
+        "time_formatted": "0:02:16",
+        "resolution": "1920x1080",
+        "brightness": 248.92608072916667,
+        "contrast": 28.582869309820772,
+        "avg_color_bgr": [
+          248.31685136959877,
+          248.10566502700618,
+          250.7910185185185
+        ],
+        "edge_density": 0.018621238425925925,
+        "scene_complexity": "low",
+        "filename": "frame_0068_136.00s.jpg",
+        "path": "video_analysis/frames/frame_0068_136.00s.jpg"
+      },
+      {
+        "timestamp": 138.0,
+        "time_formatted": "0:02:18",
+        "resolution": "1920x1080",
+        "brightness": 252.23039689429012,
+        "contrast": 18.969882377845163,
+        "avg_color_bgr": [
+          252.1953477044753,
+          252.22640817901234,
+          252.26644290123457
+        ],
+        "edge_density": 0.008546489197530864,
+        "scene_complexity": "low",
+        "filename": "frame_0069_138.00s.jpg",
+        "path": "video_analysis/frames/frame_0069_138.00s.jpg"
+      },
+      {
+        "timestamp": 140.0,
+        "time_formatted": "0:02:20",
+        "resolution": "1920x1080",
+        "brightness": 252.21108362268518,
+        "contrast": 19.03781488447075,
+        "avg_color_bgr": [
+          252.1736183449074,
+          252.1948480902778,
+          252.27161988811727
+        ],
+        "edge_density": 0.008540702160493827,
+        "scene_complexity": "low",
+        "filename": "frame_0070_140.00s.jpg",
+        "path": "video_analysis/frames/frame_0070_140.00s.jpg"
+      },
+      {
+        "timestamp": 142.0,
+        "time_formatted": "0:02:22",
+        "resolution": "1920x1080",
+        "brightness": 252.20645206404322,
+        "contrast": 19.049039027349078,
+        "avg_color_bgr": [
+          252.17153260030864,
+          252.19245804398147,
+          252.2607354359568
+        ],
+        "edge_density": 0.008596161265432098,
+        "scene_complexity": "low",
+        "filename": "frame_0071_142.00s.jpg",
+        "path": "video_analysis/frames/frame_0071_142.00s.jpg"
+      },
+      {
+        "timestamp": 144.0,
+        "time_formatted": "0:02:24",
+        "resolution": "1920x1080",
+        "brightness": 252.1778158757716,
+        "contrast": 19.146677868319138,
+        "avg_color_bgr": [
+          252.13977189429013,
+          252.14790750385802,
+          252.25742283950618
+        ],
+        "edge_density": 0.00867235725308642,
+        "scene_complexity": "low",
+        "filename": "frame_0072_144.00s.jpg",
+        "path": "video_analysis/frames/frame_0072_144.00s.jpg"
+      },
+      {
+        "timestamp": 146.0,
+        "time_formatted": "0:02:26",
+        "resolution": "1920x1080",
+        "brightness": 252.23968846450617,
+        "contrast": 18.963105073564087,
+        "avg_color_bgr": [
+          252.2082494212963,
+          252.2346836419753,
+          252.26843364197532
+        ],
+        "edge_density": 0.00855275848765432,
+        "scene_complexity": "low",
+        "filename": "frame_0073_146.00s.jpg",
+        "path": "video_analysis/frames/frame_0073_146.00s.jpg"
+      },
+      {
+        "timestamp": 148.0,
+        "time_formatted": "0:02:28",
+        "resolution": "1920x1080",
+        "brightness": 252.19670331790124,
+        "contrast": 19.08156153154651,
+        "avg_color_bgr": [
+          252.1615306712963,
+          252.17378761574074,
+          252.26243682484568
+        ],
+        "edge_density": 0.008660300925925925,
+        "scene_complexity": "low",
+        "filename": "frame_0074_148.00s.jpg",
+        "path": "video_analysis/frames/frame_0074_148.00s.jpg"
+      },
+      {
+        "timestamp": 150.0,
+        "time_formatted": "0:02:30",
+        "resolution": "1920x1080",
+        "brightness": 252.25136574074074,
+        "contrast": 18.927893553820304,
+        "avg_color_bgr": [
+          252.22076822916668,
+          252.2496518132716,
+          252.27262490354937
+        ],
+        "edge_density": 0.008499710648148149,
+        "scene_complexity": "low",
+        "filename": "frame_0075_150.00s.jpg",
+        "path": "video_analysis/frames/frame_0075_150.00s.jpg"
+      },
+      {
+        "timestamp": 152.0,
+        "time_formatted": "0:02:32",
+        "resolution": "1920x1080",
+        "brightness": 252.2507065007716,
+        "contrast": 18.932529874131568,
+        "avg_color_bgr": [
+          252.2199821566358,
+          252.24856770833333,
+          252.27291329089505
+        ],
+        "edge_density": 0.008500192901234568,
+        "scene_complexity": "low",
+        "filename": "frame_0076_152.00s.jpg",
+        "path": "video_analysis/frames/frame_0076_152.00s.jpg"
+      },
+      {
+        "timestamp": 154.0,
+        "time_formatted": "0:02:34",
+        "resolution": "1920x1080",
+        "brightness": 252.23790412808643,
+        "contrast": 18.971792912563572,
+        "avg_color_bgr": [
+          252.2059910300926,
+          252.22846064814814,
+          252.27525511188273
+        ],
+        "edge_density": 0.008529128086419754,
+        "scene_complexity": "low",
+        "filename": "frame_0077_154.00s.jpg",
+        "path": "video_analysis/frames/frame_0077_154.00s.jpg"
+      },
+      {
+        "timestamp": 156.0,
+        "time_formatted": "0:02:36",
+        "resolution": "1920x1080",
+        "brightness": 252.19590422453703,
+        "contrast": 19.109492187245767,
+        "avg_color_bgr": [
+          252.1564168595679,
+          252.16306664737655,
+          252.28233603395063
+        ],
+        "edge_density": 0.008580729166666667,
+        "scene_complexity": "low",
+        "filename": "frame_0078_156.00s.jpg",
+        "path": "video_analysis/frames/frame_0078_156.00s.jpg"
+      },
+      {
+        "timestamp": 158.0,
+        "time_formatted": "0:02:38",
+        "resolution": "1920x1080",
+        "brightness": 252.17956886574075,
+        "contrast": 19.12478693517044,
+        "avg_color_bgr": [
+          252.1402097800926,
+          252.1503481867284,
+          252.25934268904322
+        ],
+        "edge_density": 0.008714313271604938,
+        "scene_complexity": "low",
+        "filename": "frame_0079_158.00s.jpg",
+        "path": "video_analysis/frames/frame_0079_158.00s.jpg"
+      },
+      {
+        "timestamp": 160.0,
+        "time_formatted": "0:02:40",
+        "resolution": "1920x1080",
+        "brightness": 252.2481925154321,
+        "contrast": 18.93764435356235,
+        "avg_color_bgr": [
+          252.2176986882716,
+          252.24546296296296,
+          252.27196855709877
+        ],
+        "edge_density": 0.008521894290123457,
+        "scene_complexity": "low",
+        "filename": "frame_0080_160.00s.jpg",
+        "path": "video_analysis/frames/frame_0080_160.00s.jpg"
+      },
+      {
+        "timestamp": 162.0,
+        "time_formatted": "0:02:42",
+        "resolution": "1920x1080",
+        "brightness": 252.251629533179,
+        "contrast": 18.92892425404105,
+        "avg_color_bgr": [
+          252.22141975308642,
+          252.25010754243826,
+          252.2730608603395
+        ],
+        "edge_density": 0.008503568672839506,
+        "scene_complexity": "low",
+        "filename": "frame_0081_162.00s.jpg",
+        "path": "video_analysis/frames/frame_0081_162.00s.jpg"
+      },
+      {
+        "timestamp": 164.0,
+        "time_formatted": "0:02:44",
+        "resolution": "1920x1080",
+        "brightness": 252.20583863811729,
+        "contrast": 19.057313495903305,
+        "avg_color_bgr": [
+          252.17061969521606,
+          252.1863990162037,
+          252.2646513310185
+        ],
+        "edge_density": 0.008612557870370371,
+        "scene_complexity": "low",
+        "filename": "frame_0082_164.00s.jpg",
+        "path": "video_analysis/frames/frame_0082_164.00s.jpg"
+      },
+      {
+        "timestamp": 166.0,
+        "time_formatted": "0:02:46",
+        "resolution": "1920x1080",
+        "brightness": 252.23730324074074,
+        "contrast": 18.979820618786597,
+        "avg_color_bgr": [
+          252.20685956790123,
+          252.2302522183642,
+          252.27015094521605
+        ],
+        "edge_density": 0.008525270061728395,
+        "scene_complexity": "low",
+        "filename": "frame_0083_166.00s.jpg",
+        "path": "video_analysis/frames/frame_0083_166.00s.jpg"
+      },
+      {
+        "timestamp": 168.0,
+        "time_formatted": "0:02:48",
+        "resolution": "1920x1080",
+        "brightness": 252.24546585648147,
+        "contrast": 18.947899733387647,
+        "avg_color_bgr": [
+          252.21482494212964,
+          252.2416189236111,
+          252.2714588155864
+        ],
+        "edge_density": 0.00853395061728395,
+        "scene_complexity": "low",
+        "filename": "frame_0084_168.00s.jpg",
+        "path": "video_analysis/frames/frame_0084_168.00s.jpg"
+      },
+      {
+        "timestamp": 170.0,
+        "time_formatted": "0:02:50",
+        "resolution": "1920x1080",
+        "brightness": 249.16925540123458,
+        "contrast": 28.109286031711083,
+        "avg_color_bgr": [
+          248.5727985146605,
+          248.45358892746913,
+          250.81684317129628
+        ],
+        "edge_density": 0.01793016975308642,
+        "scene_complexity": "low",
+        "filename": "frame_0085_170.00s.jpg",
+        "path": "video_analysis/frames/frame_0085_170.00s.jpg"
+      },
+      {
+        "timestamp": 172.0,
+        "time_formatted": "0:02:52",
+        "resolution": "1920x1080",
+        "brightness": 249.15312837577162,
+        "contrast": 28.275962021884137,
+        "avg_color_bgr": [
+          248.5167833719136,
+          248.41923369984568,
+          250.85513599537038
+        ],
+        "edge_density": 0.018052662037037037,
+        "scene_complexity": "low",
+        "filename": "frame_0086_172.00s.jpg",
+        "path": "video_analysis/frames/frame_0086_172.00s.jpg"
+      },
+      {
+        "timestamp": 174.0,
+        "time_formatted": "0:02:54",
+        "resolution": "1920x1080",
+        "brightness": 252.23717592592592,
+        "contrast": 18.962910072591978,
+        "avg_color_bgr": [
+          252.20293788580247,
+          252.23365644290124,
+          252.26653501157406
+        ],
+        "edge_density": 0.008539255401234567,
+        "scene_complexity": "low",
+        "filename": "frame_0087_174.00s.jpg",
+        "path": "video_analysis/frames/frame_0087_174.00s.jpg"
+      },
+      {
+        "timestamp": 176.0,
+        "time_formatted": "0:02:56",
+        "resolution": "1920x1080",
+        "brightness": 252.23832320601852,
+        "contrast": 18.960609229105074,
+        "avg_color_bgr": [
+          252.20435860339506,
+          252.23447193287038,
+          252.26758294753085
+        ],
+        "edge_density": 0.00853491512345679,
+        "scene_complexity": "low",
+        "filename": "frame_0088_176.00s.jpg",
+        "path": "video_analysis/frames/frame_0088_176.00s.jpg"
+      },
+      {
+        "timestamp": 178.0,
+        "time_formatted": "0:02:58",
+        "resolution": "1920x1080",
+        "brightness": 252.22536844135803,
+        "contrast": 19.012106785835442,
+        "avg_color_bgr": [
+          252.19267264660493,
+          252.2144786844136,
+          252.2659297839506
+        ],
+        "edge_density": 0.008569637345679013,
+        "scene_complexity": "low",
+        "filename": "frame_0089_178.00s.jpg",
+        "path": "video_analysis/frames/frame_0089_178.00s.jpg"
+      },
+      {
+        "timestamp": 180.0,
+        "time_formatted": "0:03:00",
+        "resolution": "1920x1080",
+        "brightness": 252.2260411844136,
+        "contrast": 18.995930886382027,
+        "avg_color_bgr": [
+          252.19250192901234,
+          252.21544463734568,
+          252.2667645640432
+        ],
+        "edge_density": 0.008584587191358024,
+        "scene_complexity": "low",
+        "filename": "frame_0090_180.00s.jpg",
+        "path": "video_analysis/frames/frame_0090_180.00s.jpg"
+      },
+      {
+        "timestamp": 182.0,
+        "time_formatted": "0:03:02",
+        "resolution": "1920x1080",
+        "brightness": 252.1990658757716,
+        "contrast": 19.074306073735453,
+        "avg_color_bgr": [
+          252.16458960262347,
+          252.1782214506173,
+          252.26044174382716
+        ],
+        "edge_density": 0.008665123456790123,
+        "scene_complexity": "low",
+        "filename": "frame_0091_182.00s.jpg",
+        "path": "video_analysis/frames/frame_0091_182.00s.jpg"
+      },
+      {
+        "timestamp": 184.0,
+        "time_formatted": "0:03:04",
+        "resolution": "1920x1080",
+        "brightness": 252.22727719907408,
+        "contrast": 18.997444271884618,
+        "avg_color_bgr": [
+          252.1950395447531,
+          252.21475067515433,
+          252.27093846450617
+        ],
+        "edge_density": 0.00857349537037037,
+        "scene_complexity": "low",
+        "filename": "frame_0092_184.00s.jpg",
+        "path": "video_analysis/frames/frame_0092_184.00s.jpg"
+      },
+      {
+        "timestamp": 186.0,
+        "time_formatted": "0:03:06",
+        "resolution": "1920x1080",
+        "brightness": 252.24750434027777,
+        "contrast": 18.944640781619466,
+        "avg_color_bgr": [
+          252.2182282021605,
+          252.24489631558643,
+          252.27051745756174
+        ],
+        "edge_density": 0.008515625,
+        "scene_complexity": "low",
+        "filename": "frame_0093_186.00s.jpg",
+        "path": "video_analysis/frames/frame_0093_186.00s.jpg"
+      },
+      {
+        "timestamp": 188.0,
+        "time_formatted": "0:03:08",
+        "resolution": "1920x1080",
+        "brightness": 252.14712239583332,
+        "contrast": 19.260057321544846,
+        "avg_color_bgr": [
+          252.10775704089505,
+          252.10438850308643,
+          252.2533280285494
+        ],
+        "edge_density": 0.008719135802469136,
+        "scene_complexity": "low",
+        "filename": "frame_0094_188.00s.jpg",
+        "path": "video_analysis/frames/frame_0094_188.00s.jpg"
+      },
+      {
+        "timestamp": 190.0,
+        "time_formatted": "0:03:10",
+        "resolution": "1920x1080",
+        "brightness": 252.2485513117284,
+        "contrast": 18.940340765624292,
+        "avg_color_bgr": [
+          252.21720823688273,
+          252.24572241512345,
+          252.2729870756173
+        ],
+        "edge_density": 0.0085180362654321,
+        "scene_complexity": "low",
+        "filename": "frame_0095_190.00s.jpg",
+        "path": "video_analysis/frames/frame_0095_190.00s.jpg"
+      },
+      {
+        "timestamp": 192.0,
+        "time_formatted": "0:03:12",
+        "resolution": "1920x1080",
+        "brightness": 252.25186294367285,
+        "contrast": 18.929983156334732,
+        "avg_color_bgr": [
+          252.22259162808643,
+          252.25049189814814,
+          252.27278308256172
+        ],
+        "edge_density": 0.008510802469135803,
+        "scene_complexity": "low",
+        "filename": "frame_0096_192.00s.jpg",
+        "path": "video_analysis/frames/frame_0096_192.00s.jpg"
+      },
+      {
+        "timestamp": 194.0,
+        "time_formatted": "0:03:14",
+        "resolution": "1920x1080",
+        "brightness": 252.10433063271606,
+        "contrast": 19.382694797058768,
+        "avg_color_bgr": [
+          252.05609905478394,
+          252.04341145833334,
+          252.24989293981483
+        ],
+        "edge_density": 0.008815104166666667,
+        "scene_complexity": "low",
+        "filename": "frame_0097_194.00s.jpg",
+        "path": "video_analysis/frames/frame_0097_194.00s.jpg"
+      },
+      {
+        "timestamp": 196.0,
+        "time_formatted": "0:03:16",
+        "resolution": "1920x1080",
+        "brightness": 252.17967158564815,
+        "contrast": 19.184114533443246,
+        "avg_color_bgr": [
+          252.14128616898148,
+          252.14996286651234,
+          252.25983844521605
+        ],
+        "edge_density": 0.008612557870370371,
+        "scene_complexity": "low",
+        "filename": "frame_0098_196.00s.jpg",
+        "path": "video_analysis/frames/frame_0098_196.00s.jpg"
+      },
+      {
+        "timestamp": 198.0,
+        "time_formatted": "0:03:18",
+        "resolution": "1920x1080",
+        "brightness": 249.2035831404321,
+        "contrast": 28.179779705802993,
+        "avg_color_bgr": [
+          248.59587818287036,
+          248.48087577160493,
+          250.8769135802469
+        ],
+        "edge_density": 0.017934992283950617,
+        "scene_complexity": "low",
+        "filename": "frame_0099_198.00s.jpg",
+        "path": "video_analysis/frames/frame_0099_198.00s.jpg"
+      },
+      {
+        "timestamp": 200.0,
+        "time_formatted": "0:03:20",
+        "resolution": "1920x1080",
+        "brightness": 251.88165171682098,
+        "contrast": 20.531389998288024,
+        "avg_color_bgr": [
+          251.8664838927469,
+          251.87931520061727,
+          251.90009066358024
+        ],
+        "edge_density": 0.009005594135802469,
+        "scene_complexity": "low",
+        "filename": "frame_0100_200.00s.jpg",
+        "path": "video_analysis/frames/frame_0100_200.00s.jpg"
+      },
+      {
+        "timestamp": 202.0,
+        "time_formatted": "0:03:22",
+        "resolution": "1920x1080",
+        "brightness": 251.8405859375,
+        "contrast": 21.689811855647225,
+        "avg_color_bgr": [
+          251.80651813271604,
+          251.84152777777777,
+          251.85979166666667
+        ],
+        "edge_density": 0.011319926697530864,
+        "scene_complexity": "low",
+        "filename": "frame_0101_202.00s.jpg",
+        "path": "video_analysis/frames/frame_0101_202.00s.jpg"
+      },
+      {
+        "timestamp": 204.0,
+        "time_formatted": "0:03:24",
+        "resolution": "1920x1080",
+        "brightness": 251.83102430555556,
+        "contrast": 21.714046874473855,
+        "avg_color_bgr": [
+          251.79634789737653,
+          251.82806712962963,
+          251.85795717592592
+        ],
+        "edge_density": 0.011379726080246913,
+        "scene_complexity": "low",
+        "filename": "frame_0102_204.00s.jpg",
+        "path": "video_analysis/frames/frame_0102_204.00s.jpg"
+      },
+      {
+        "timestamp": 206.0,
+        "time_formatted": "0:03:26",
+        "resolution": "1920x1080",
+        "brightness": 251.82517168209876,
+        "contrast": 21.72861854510554,
+        "avg_color_bgr": [
+          251.79021749614196,
+          251.8193504050926,
+          251.8580647183642
+        ],
+        "edge_density": 0.011391300154320988,
+        "scene_complexity": "low",
+        "filename": "frame_0103_206.00s.jpg",
+        "path": "video_analysis/frames/frame_0103_206.00s.jpg"
+      },
+      {
+        "timestamp": 208.0,
+        "time_formatted": "0:03:28",
+        "resolution": "1920x1080",
+        "brightness": 251.7931076388889,
+        "contrast": 21.833391807668097,
+        "avg_color_bgr": [
+          251.75552710262346,
+          251.77495997299383,
+          251.8515938464506
+        ],
+        "edge_density": 0.011397087191358025,
+        "scene_complexity": "low",
+        "filename": "frame_0104_208.00s.jpg",
+        "path": "video_analysis/frames/frame_0104_208.00s.jpg"
+      },
+      {
+        "timestamp": 210.0,
+        "time_formatted": "0:03:30",
+        "resolution": "1920x1080",
+        "brightness": 251.80366222993828,
+        "contrast": 21.776955498722018,
+        "avg_color_bgr": [
+          251.76545910493826,
+          251.7854359567901,
+          251.8612080439815
+        ],
+        "edge_density": 0.011414930555555555,
+        "scene_complexity": "low",
+        "filename": "frame_0105_210.00s.jpg",
+        "path": "video_analysis/frames/frame_0105_210.00s.jpg"
+      },
+      {
+        "timestamp": 212.0,
+        "time_formatted": "0:03:32",
+        "resolution": "1920x1080",
+        "brightness": 251.8356708140432,
+        "contrast": 21.70676945894521,
+        "avg_color_bgr": [
+          251.8002271412037,
+          251.83293499228395,
+          251.86172405478396
+        ],
+        "edge_density": 0.011345968364197531,
+        "scene_complexity": "low",
+        "filename": "frame_0106_212.00s.jpg",
+        "path": "video_analysis/frames/frame_0106_212.00s.jpg"
+      },
+      {
+        "timestamp": 214.0,
+        "time_formatted": "0:03:34",
+        "resolution": "1920x1080",
+        "brightness": 251.84204041280864,
+        "contrast": 21.690600475344283,
+        "avg_color_bgr": [
+          251.80707995756174,
+          251.84026427469135,
+          251.86615210262346
+        ],
+        "edge_density": 0.011331018518518518,
+        "scene_complexity": "low",
+        "filename": "frame_0107_214.00s.jpg",
+        "path": "video_analysis/frames/frame_0107_214.00s.jpg"
+      },
+      {
+        "timestamp": 216.0,
+        "time_formatted": "0:03:36",
+        "resolution": "1920x1080",
+        "brightness": 251.8365658757716,
+        "contrast": 21.698365118958822,
+        "avg_color_bgr": [
+          251.80245997299383,
+          251.83254677854939,
+          251.86482783564816
+        ],
+        "edge_density": 0.011338252314814815,
+        "scene_complexity": "low",
+        "filename": "frame_0108_216.00s.jpg",
+        "path": "video_analysis/frames/frame_0108_216.00s.jpg"
+      },
+      {
+        "timestamp": 218.0,
+        "time_formatted": "0:03:38",
+        "resolution": "1920x1080",
+        "brightness": 251.84587914737654,
+        "contrast": 21.676694820135438,
+        "avg_color_bgr": [
+          251.81165702160493,
+          251.84566309799382,
+          251.86655333719136
+        ],
+        "edge_density": 0.011304976851851853,
+        "scene_complexity": "low",
+        "filename": "frame_0109_218.00s.jpg",
+        "path": "video_analysis/frames/frame_0109_218.00s.jpg"
+      },
+      {
+        "timestamp": 220.0,
+        "time_formatted": "0:03:40",
+        "resolution": "1920x1080",
+        "brightness": 251.8381105324074,
+        "contrast": 21.69556638198596,
+        "avg_color_bgr": [
+          251.80402488425926,
+          251.83561680169754,
+          251.86333670910494
+        ],
+        "edge_density": 0.01134837962962963,
+        "scene_complexity": "low",
+        "filename": "frame_0110_220.00s.jpg",
+        "path": "video_analysis/frames/frame_0110_220.00s.jpg"
+      },
+      {
+        "timestamp": 222.0,
+        "time_formatted": "0:03:42",
+        "resolution": "1920x1080",
+        "brightness": 251.80394386574073,
+        "contrast": 21.78115771659633,
+        "avg_color_bgr": [
+          251.76654272762346,
+          251.78832995756173,
+          251.85579475308643
+        ],
+        "edge_density": 0.011413483796296297,
+        "scene_complexity": "low",
+        "filename": "frame_0111_222.00s.jpg",
+        "path": "video_analysis/frames/frame_0111_222.00s.jpg"
+      },
+      {
+        "timestamp": 224.0,
+        "time_formatted": "0:03:44",
+        "resolution": "1920x1080",
+        "brightness": 251.83237413194445,
+        "contrast": 21.710014086985133,
+        "avg_color_bgr": [
+          251.79739052854939,
+          251.8267042824074,
+          251.8637109375
+        ],
+        "edge_density": 0.011336805555555555,
+        "scene_complexity": "low",
+        "filename": "frame_0112_224.00s.jpg",
+        "path": "video_analysis/frames/frame_0112_224.00s.jpg"
+      },
+      {
+        "timestamp": 226.0,
+        "time_formatted": "0:03:46",
+        "resolution": "1920x1080",
+        "brightness": 251.84373697916666,
+        "contrast": 21.68051351028635,
+        "avg_color_bgr": [
+          251.80991560570988,
+          251.84412905092591,
+          251.8632880015432
+        ],
+        "edge_density": 0.011326678240740741,
+        "scene_complexity": "low",
+        "filename": "frame_0113_226.00s.jpg",
+        "path": "video_analysis/frames/frame_0113_226.00s.jpg"
+      },
+      {
+        "timestamp": 228.0,
+        "time_formatted": "0:03:48",
+        "resolution": "1920x1080",
+        "brightness": 251.83885079089507,
+        "contrast": 21.68794807704833,
+        "avg_color_bgr": [
+          251.80389708719136,
+          251.83804012345678,
+          251.86066888503086
+        ],
+        "edge_density": 0.011344521604938271,
+        "scene_complexity": "low",
+        "filename": "frame_0114_228.00s.jpg",
+        "path": "video_analysis/frames/frame_0114_228.00s.jpg"
+      },
+      {
+        "timestamp": 230.0,
+        "time_formatted": "0:03:50",
+        "resolution": "1920x1080",
+        "brightness": 251.8245568094136,
+        "contrast": 21.725019322776078,
+        "avg_color_bgr": [
+          251.78759741512346,
+          251.8161014660494,
+          251.86247636959877
+        ],
+        "edge_density": 0.011356577932098766,
+        "scene_complexity": "low",
+        "filename": "frame_0115_230.00s.jpg",
+        "path": "video_analysis/frames/frame_0115_230.00s.jpg"
+      },
+      {
+        "timestamp": 232.0,
+        "time_formatted": "0:03:52",
+        "resolution": "1920x1080",
+        "brightness": 251.8414728009259,
+        "contrast": 21.682085644078473,
+        "avg_color_bgr": [
+          251.80557339891976,
+          251.84193287037036,
+          251.86166714891976
+        ],
+        "edge_density": 0.01132619598765432,
+        "scene_complexity": "low",
+        "filename": "frame_0116_232.00s.jpg",
+        "path": "video_analysis/frames/frame_0116_232.00s.jpg"
+      },
+      {
+        "timestamp": 234.0,
+        "time_formatted": "0:03:54",
+        "resolution": "1920x1080",
+        "brightness": 251.81385368441357,
+        "contrast": 21.754200316196123,
+        "avg_color_bgr": [
+          251.77715952932098,
+          251.7998220486111,
+          251.8625033757716
+        ],
+        "edge_density": 0.011379243827160494,
+        "scene_complexity": "low",
+        "filename": "frame_0117_234.00s.jpg",
+        "path": "video_analysis/frames/frame_0117_234.00s.jpg"
+      },
+      {
+        "timestamp": 236.0,
+        "time_formatted": "0:03:56",
+        "resolution": "1920x1080",
+        "brightness": 251.83161844135802,
+        "contrast": 21.70957877203866,
+        "avg_color_bgr": [
+          251.79668209876544,
+          251.8265837191358,
+          251.86161024305557
+        ],
+        "edge_density": 0.011372010030864197,
+        "scene_complexity": "low",
+        "filename": "frame_0118_236.00s.jpg",
+        "path": "video_analysis/frames/frame_0118_236.00s.jpg"
+      },
+      {
+        "timestamp": 238.0,
+        "time_formatted": "0:03:58",
+        "resolution": "1920x1080",
+        "brightness": 251.82309944058642,
+        "contrast": 21.725646377780265,
+        "avg_color_bgr": [
+          251.78746961805555,
+          251.8155719521605,
+          251.85880931712964
+        ],
+        "edge_density": 0.011399498456790124,
+        "scene_complexity": "low",
+        "filename": "frame_0119_238.00s.jpg",
+        "path": "video_analysis/frames/frame_0119_238.00s.jpg"
+      },
+      {
+        "timestamp": 240.0,
+        "time_formatted": "0:04:00",
+        "resolution": "1920x1080",
+        "brightness": 251.8429335455247,
+        "contrast": 21.681043013098407,
+        "avg_color_bgr": [
+          251.81035445601853,
+          251.8421981095679,
+          251.8639626736111
+        ],
+        "edge_density": 0.011332465277777778,
+        "scene_complexity": "low",
+        "filename": "frame_0120_240.00s.jpg",
+        "path": "video_analysis/frames/frame_0120_240.00s.jpg"
+      },
+      {
+        "timestamp": 242.0,
+        "time_formatted": "0:04:02",
+        "resolution": "1920x1080",
+        "brightness": 251.84081790123457,
+        "contrast": 21.68953063985787,
+        "avg_color_bgr": [
+          251.80783950617283,
+          251.83916039737653,
+          251.8639848572531
+        ],
+        "edge_density": 0.011332947530864198,
+        "scene_complexity": "low",
+        "filename": "frame_0121_242.00s.jpg",
+        "path": "video_analysis/frames/frame_0121_242.00s.jpg"
+      },
+      {
+        "timestamp": 244.0,
+        "time_formatted": "0:04:04",
+        "resolution": "1920x1080",
+        "brightness": 251.84465470679012,
+        "contrast": 21.683590985645782,
+        "avg_color_bgr": [
+          251.8105497685185,
+          251.84451485339505,
+          251.86510127314816
+        ],
+        "edge_density": 0.011328607253086419,
+        "scene_complexity": "low",
+        "filename": "frame_0122_244.00s.jpg",
+        "path": "video_analysis/frames/frame_0122_244.00s.jpg"
+      },
+      {
+        "timestamp": 246.0,
+        "time_formatted": "0:04:06",
+        "resolution": "1920x1080",
+        "brightness": 251.8405893132716,
+        "contrast": 21.686165239815313,
+        "avg_color_bgr": [
+          251.80762972608025,
+          251.83953944830247,
+          251.86259693287036
+        ],
+        "edge_density": 0.01134789737654321,
+        "scene_complexity": "low",
+        "filename": "frame_0123_246.00s.jpg",
+        "path": "video_analysis/frames/frame_0123_246.00s.jpg"
+      },
+      {
+        "timestamp": 248.0,
+        "time_formatted": "0:04:08",
+        "resolution": "1920x1080",
+        "brightness": 251.80906394675927,
+        "contrast": 21.767397463271447,
+        "avg_color_bgr": [
+          251.7738073881173,
+          251.79431568287038,
+          251.85888985339506
+        ],
+        "edge_density": 0.011400462962962963,
+        "scene_complexity": "low",
+        "filename": "frame_0124_248.00s.jpg",
+        "path": "video_analysis/frames/frame_0124_248.00s.jpg"
+      },
+      {
+        "timestamp": 250.0,
+        "time_formatted": "0:04:10",
+        "resolution": "1920x1080",
+        "brightness": 251.84474488811728,
+        "contrast": 21.68441556938009,
+        "avg_color_bgr": [
+          251.8103192515432,
+          251.84461033950618,
+          251.8655155285494
+        ],
+        "edge_density": 0.011331983024691359,
+        "scene_complexity": "low",
+        "filename": "frame_0125_250.00s.jpg",
+        "path": "video_analysis/frames/frame_0125_250.00s.jpg"
+      },
+      {
+        "timestamp": 252.0,
+        "time_formatted": "0:04:12",
+        "resolution": "1920x1080",
+        "brightness": 251.84339940200618,
+        "contrast": 21.68006717630071,
+        "avg_color_bgr": [
+          251.80756847993828,
+          251.84339988425927,
+          251.86384452160493
+        ],
+        "edge_density": 0.011320891203703705,
+        "scene_complexity": "low",
+        "filename": "frame_0126_252.00s.jpg",
+        "path": "video_analysis/frames/frame_0126_252.00s.jpg"
+      },
+      {
+        "timestamp": 254.0,
+        "time_formatted": "0:04:14",
+        "resolution": "1920x1080",
+        "brightness": 251.84200472608023,
+        "contrast": 21.68372306238121,
+        "avg_color_bgr": [
+          251.80607253086418,
+          251.84192997685184,
+          251.86271508487656
+        ],
+        "edge_density": 0.011328125,
+        "scene_complexity": "low",
+        "filename": "frame_0127_254.00s.jpg",
+        "path": "video_analysis/frames/frame_0127_254.00s.jpg"
+      },
+      {
+        "timestamp": 256.0,
+        "time_formatted": "0:04:16",
+        "resolution": "1920x1080",
+        "brightness": 251.83599922839505,
+        "contrast": 21.696643369246846,
+        "avg_color_bgr": [
+          251.7996657986111,
+          251.83332561728395,
+          251.8620346257716
+        ],
+        "edge_density": 0.011352719907407407,
+        "scene_complexity": "low",
+        "filename": "frame_0128_256.00s.jpg",
+        "path": "video_analysis/frames/frame_0128_256.00s.jpg"
+      },
+      {
+        "timestamp": 258.0,
+        "time_formatted": "0:04:18",
+        "resolution": "1920x1080",
+        "brightness": 251.83031925154322,
+        "contrast": 21.710095473779926,
+        "avg_color_bgr": [
+          251.79461805555556,
+          251.82415412808643,
+          251.86366415895063
+        ],
+        "edge_density": 0.011364776234567902,
+        "scene_complexity": "low",
+        "filename": "frame_0129_258.00s.jpg",
+        "path": "video_analysis/frames/frame_0129_258.00s.jpg"
+      },
+      {
+        "timestamp": 260.0,
+        "time_formatted": "0:04:20",
+        "resolution": "1920x1080",
+        "brightness": 251.82087287808642,
+        "contrast": 21.725425592560864,
+        "avg_color_bgr": [
+          251.78377411265433,
+          251.81213252314814,
+          251.85944830246913
+        ],
+        "edge_density": 0.011417341820987654,
+        "scene_complexity": "low",
+        "filename": "frame_0130_260.00s.jpg",
+        "path": "video_analysis/frames/frame_0130_260.00s.jpg"
+      },
+      {
+        "timestamp": 262.0,
+        "time_formatted": "0:04:22",
+        "resolution": "1920x1080",
+        "brightness": 251.77618875385804,
+        "contrast": 21.863466219937063,
+        "avg_color_bgr": [
+          251.73741560570988,
+          251.75014081790124,
+          251.84972463348765
+        ],
+        "edge_density": 0.011492091049382716,
+        "scene_complexity": "low",
+        "filename": "frame_0131_262.00s.jpg",
+        "path": "video_analysis/frames/frame_0131_262.00s.jpg"
+      },
+      {
+        "timestamp": 264.0,
+        "time_formatted": "0:04:24",
+        "resolution": "1920x1080",
+        "brightness": 251.84446855709876,
+        "contrast": 21.68233707662825,
+        "avg_color_bgr": [
+          251.81036844135804,
+          251.84424238040123,
+          251.865223283179
+        ],
+        "edge_density": 0.011328607253086419,
+        "scene_complexity": "low",
+        "filename": "frame_0132_264.00s.jpg",
+        "path": "video_analysis/frames/frame_0132_264.00s.jpg"
+      },
+      {
+        "timestamp": 266.0,
+        "time_formatted": "0:04:26",
+        "resolution": "1920x1080",
+        "brightness": 251.84570216049383,
+        "contrast": 21.682526981886646,
+        "avg_color_bgr": [
+          251.81120466820988,
+          251.84547694830246,
+          251.86661795910493
+        ],
+        "edge_density": 0.011317515432098765,
+        "scene_complexity": "low",
+        "filename": "frame_0133_266.00s.jpg",
+        "path": "video_analysis/frames/frame_0133_266.00s.jpg"
+      },
+      {
+        "timestamp": 268.0,
+        "time_formatted": "0:04:28",
+        "resolution": "1920x1080",
+        "brightness": 251.76730227623457,
+        "contrast": 21.824523400907555,
+        "avg_color_bgr": [
+          251.73627652391974,
+          251.7333878279321,
+          251.85246527777778
+        ],
+        "edge_density": 0.01148389274691358,
+        "scene_complexity": "low",
+        "filename": "frame_0134_268.00s.jpg",
+        "path": "video_analysis/frames/frame_0134_268.00s.jpg"
+      },
+      {
+        "timestamp": 270.0,
+        "time_formatted": "0:04:30",
+        "resolution": "1920x1080",
+        "brightness": 251.84179108796297,
+        "contrast": 21.689752387617045,
+        "avg_color_bgr": [
+          251.8072125771605,
+          251.84206259645063,
+          251.86172453703705
+        ],
+        "edge_density": 0.011322337962962963,
+        "scene_complexity": "low",
+        "filename": "frame_0135_270.00s.jpg",
+        "path": "video_analysis/frames/frame_0135_270.00s.jpg"
+      },
+      {
+        "timestamp": 272.0,
+        "time_formatted": "0:04:32",
+        "resolution": "1920x1080",
+        "brightness": 251.800485628858,
+        "contrast": 21.79293691537816,
+        "avg_color_bgr": [
+          251.76360628858023,
+          251.7846518132716,
+          251.85317177854938
+        ],
+        "edge_density": 0.011440972222222222,
+        "scene_complexity": "low",
+        "filename": "frame_0136_272.00s.jpg",
+        "path": "video_analysis/frames/frame_0136_272.00s.jpg"
+      },
+      {
+        "timestamp": 274.0,
+        "time_formatted": "0:04:34",
+        "resolution": "1920x1080",
+        "brightness": 251.81931664737655,
+        "contrast": 21.74843322270819,
+        "avg_color_bgr": [
+          251.78154031635802,
+          251.81111304012344,
+          251.8569381751543
+        ],
+        "edge_density": 0.011376832561728395,
+        "scene_complexity": "low",
+        "filename": "frame_0137_274.00s.jpg",
+        "path": "video_analysis/frames/frame_0137_274.00s.jpg"
+      },
+      {
+        "timestamp": 276.0,
+        "time_formatted": "0:04:36",
+        "resolution": "1920x1080",
+        "brightness": 251.84226851851852,
+        "contrast": 21.681594688788117,
+        "avg_color_bgr": [
+          251.80804976851852,
+          251.84247444058641,
+          251.86214072145063
+        ],
+        "edge_density": 0.011332465277777778,
+        "scene_complexity": "low",
+        "filename": "frame_0138_276.00s.jpg",
+        "path": "video_analysis/frames/frame_0138_276.00s.jpg"
+      },
+      {
+        "timestamp": 278.0,
+        "time_formatted": "0:04:38",
+        "resolution": "1920x1080",
+        "brightness": 251.79384114583334,
+        "contrast": 21.809208270066268,
+        "avg_color_bgr": [
+          251.7561646412037,
+          251.7753477044753,
+          251.8520838155864
+        ],
+        "edge_density": 0.011456404320987655,
+        "scene_complexity": "low",
+        "filename": "frame_0139_278.00s.jpg",
+        "path": "video_analysis/frames/frame_0139_278.00s.jpg"
+      },
+      {
+        "timestamp": 280.0,
+        "time_formatted": "0:04:40",
+        "resolution": "1920x1080",
+        "brightness": 251.84350115740742,
+        "contrast": 21.682569924990016,
+        "avg_color_bgr": [
+          251.80811535493828,
+          251.84390094521606,
+          251.86371383101852
+        ],
+        "edge_density": 0.011319926697530864,
+        "scene_complexity": "low",
+        "filename": "frame_0140_280.00s.jpg",
+        "path": "video_analysis/frames/frame_0140_280.00s.jpg"
+      },
+      {
+        "timestamp": 282.0,
+        "time_formatted": "0:04:42",
+        "resolution": "1920x1080",
+        "brightness": 251.84335889274692,
+        "contrast": 21.681897961026774,
+        "avg_color_bgr": [
+          251.80881269290123,
+          251.84344328703705,
+          251.8635407021605
+        ],
+        "edge_density": 0.01132619598765432,
+        "scene_complexity": "low",
+        "filename": "frame_0141_282.00s.jpg",
+        "path": "video_analysis/frames/frame_0141_282.00s.jpg"
+      },
+      {
+        "timestamp": 284.0,
+        "time_formatted": "0:04:44",
+        "resolution": "1920x1080",
+        "brightness": 251.83676697530865,
+        "contrast": 21.698243826388428,
+        "avg_color_bgr": [
+          251.80206114969135,
+          251.83433400848764,
+          251.86203607253086
+        ],
+        "edge_density": 0.011344521604938271,
+        "scene_complexity": "low",
+        "filename": "frame_0142_284.00s.jpg",
+        "path": "video_analysis/frames/frame_0142_284.00s.jpg"
+      },
+      {
+        "timestamp": 286.0,
+        "time_formatted": "0:04:46",
+        "resolution": "1920x1080",
+        "brightness": 251.8337996720679,
+        "contrast": 21.70233418921589,
+        "avg_color_bgr": [
+          251.799425154321,
+          251.83066358024692,
+          251.8602768132716
+        ],
+        "edge_density": 0.011357542438271605,
+        "scene_complexity": "low",
+        "filename": "frame_0143_286.00s.jpg",
+        "path": "video_analysis/frames/frame_0143_286.00s.jpg"
+      },
+      {
+        "timestamp": 288.0,
+        "time_formatted": "0:04:48",
+        "resolution": "1920x1080",
+        "brightness": 251.83564380787038,
+        "contrast": 21.702073021777707,
+        "avg_color_bgr": [
+          251.80125,
+          251.8318426890432,
+          251.8639737654321
+        ],
+        "edge_density": 0.011364293981481482,
+        "scene_complexity": "low",
+        "filename": "frame_0144_288.00s.jpg",
+        "path": "video_analysis/frames/frame_0144_288.00s.jpg"
+      },
+      {
+        "timestamp": 290.0,
+        "time_formatted": "0:04:50",
+        "resolution": "1920x1080",
+        "brightness": 251.84504677854937,
+        "contrast": 21.68471785025815,
+        "avg_color_bgr": [
+          251.81113136574075,
+          251.8450313464506,
+          251.8657667824074
+        ],
+        "edge_density": 0.01132716049382716,
+        "scene_complexity": "low",
+        "filename": "frame_0145_290.00s.jpg",
+        "path": "video_analysis/frames/frame_0145_290.00s.jpg"
+      },
+      {
+        "timestamp": 292.0,
+        "time_formatted": "0:04:52",
+        "resolution": "1920x1080",
+        "brightness": 249.16908950617284,
+        "contrast": 28.137809284373564,
+        "avg_color_bgr": [
+          248.56076871141974,
+          248.4548543595679,
+          250.82375192901233
+        ],
+        "edge_density": 0.017974537037037035,
+        "scene_complexity": "low",
+        "filename": "frame_0146_292.00s.jpg",
+        "path": "video_analysis/frames/frame_0146_292.00s.jpg"
+      },
+      {
+        "timestamp": 294.0,
+        "time_formatted": "0:04:54",
+        "resolution": "1920x1080",
+        "brightness": 153.3748225308642,
+        "contrast": 107.77903004788378,
+        "avg_color_bgr": [
+          154.26467158564816,
+          152.75619068287037,
+          154.24091772762347
+        ],
+        "edge_density": 0.022417052469135803,
+        "scene_complexity": "low",
+        "filename": "frame_0147_294.00s.jpg",
+        "path": "video_analysis/frames/frame_0147_294.00s.jpg"
+      },
+      {
+        "timestamp": 296.0,
+        "time_formatted": "0:04:56",
+        "resolution": "1920x1080",
+        "brightness": 129.42326533564815,
+        "contrast": 107.63287578681546,
+        "avg_color_bgr": [
+          130.72289641203704,
+          128.78150993441358,
+          130.24846305941358
+        ],
+        "edge_density": 0.022983699845679013,
+        "scene_complexity": "low",
+        "filename": "frame_0148_296.00s.jpg",
+        "path": "video_analysis/frames/frame_0148_296.00s.jpg"
+      },
+      {
+        "timestamp": 298.0,
+        "time_formatted": "0:04:58",
+        "resolution": "1920x1080",
+        "brightness": 129.43990644290125,
+        "contrast": 107.66640946960975,
+        "avg_color_bgr": [
+          130.74583574459876,
+          128.79129340277777,
+          130.25584249614198
+        ],
+        "edge_density": 0.023532503858024693,
+        "scene_complexity": "low",
+        "filename": "frame_0149_298.00s.jpg",
+        "path": "video_analysis/frames/frame_0149_298.00s.jpg"
+      },
+      {
+        "timestamp": 300.0,
+        "time_formatted": "0:05:00",
+        "resolution": "1920x1080",
+        "brightness": 129.43952305169753,
+        "contrast": 107.6691670942531,
+        "avg_color_bgr": [
+          130.7446903935185,
+          128.79543258101853,
+          130.2487422839506
+        ],
+        "edge_density": 0.023342978395061727,
+        "scene_complexity": "low",
+        "filename": "frame_0150_300.00s.jpg",
+        "path": "video_analysis/frames/frame_0150_300.00s.jpg"
+      },
+      {
+        "timestamp": 302.0,
+        "time_formatted": "0:05:02",
+        "resolution": "1920x1080",
+        "brightness": 129.43803867669754,
+        "contrast": 107.67477268583943,
+        "avg_color_bgr": [
+          130.7402883873457,
+          128.79511911651235,
+          130.24713879243828
+        ],
+        "edge_density": 0.02325906635802469,
+        "scene_complexity": "low",
+        "filename": "frame_0151_302.00s.jpg",
+        "path": "video_analysis/frames/frame_0151_302.00s.jpg"
+      },
+      {
+        "timestamp": 304.0,
+        "time_formatted": "0:05:04",
+        "resolution": "1920x1080",
+        "brightness": 129.4469135802469,
+        "contrast": 107.68161212221635,
+        "avg_color_bgr": [
+          130.7416661844136,
+          128.80296006944445,
+          130.25587094907408
+        ],
+        "edge_density": 0.02345775462962963,
+        "scene_complexity": "low",
+        "filename": "frame_0152_304.00s.jpg",
+        "path": "video_analysis/frames/frame_0152_304.00s.jpg"
+      },
+      {
+        "timestamp": 306.0,
+        "time_formatted": "0:05:06",
+        "resolution": "1920x1080",
+        "brightness": 229.33942756558642,
+        "contrast": 53.34113543969976,
+        "avg_color_bgr": [
+          228.36961564429012,
+          227.56026813271606,
+          233.07666714891974
+        ],
+        "edge_density": 0.027253568672839505,
+        "scene_complexity": "low",
+        "filename": "frame_0153_306.00s.jpg",
+        "path": "video_analysis/frames/frame_0153_306.00s.jpg"
+      },
+      {
+        "timestamp": 308.0,
+        "time_formatted": "0:05:08",
+        "resolution": "1920x1080",
+        "brightness": 231.6225390625,
+        "contrast": 54.06687506913481,
+        "avg_color_bgr": [
+          230.84527199074074,
+          230.3597516396605,
+          234.32525993441357
+        ],
+        "edge_density": 0.028466917438271604,
+        "scene_complexity": "low",
+        "filename": "frame_0154_308.00s.jpg",
+        "path": "video_analysis/frames/frame_0154_308.00s.jpg"
+      },
+      {
+        "timestamp": 310.0,
+        "time_formatted": "0:05:10",
+        "resolution": "1920x1080",
+        "brightness": 231.45791714891976,
+        "contrast": 54.16372711808361,
+        "avg_color_bgr": [
+          230.9022188464506,
+          230.03362461419752,
+          234.37310281635803
+        ],
+        "edge_density": 0.03116608796296296,
+        "scene_complexity": "low",
+        "filename": "frame_0155_310.00s.jpg",
+        "path": "video_analysis/frames/frame_0155_310.00s.jpg"
+      },
+      {
+        "timestamp": 312.0,
+        "time_formatted": "0:05:12",
+        "resolution": "1920x1080",
+        "brightness": 224.53778308256173,
+        "contrast": 65.56280355783343,
+        "avg_color_bgr": [
+          224.1970418595679,
+          223.24838107638888,
+          227.14348958333332
+        ],
+        "edge_density": 0.03173273533950617,
+        "scene_complexity": "low",
+        "filename": "frame_0156_312.00s.jpg",
+        "path": "video_analysis/frames/frame_0156_312.00s.jpg"
+      },
+      {
+        "timestamp": 314.0,
+        "time_formatted": "0:05:14",
+        "resolution": "1920x1080",
+        "brightness": 181.1538276427469,
+        "contrast": 99.17795932317452,
+        "avg_color_bgr": [
+          181.64900752314816,
+          180.0772159529321,
+          183.07339409722223
+        ],
+        "edge_density": 0.027155189043209876,
+        "scene_complexity": "low",
+        "filename": "frame_0157_314.00s.jpg",
+        "path": "video_analysis/frames/frame_0157_314.00s.jpg"
+      },
+      {
+        "timestamp": 316.0,
+        "time_formatted": "0:05:16",
+        "resolution": "1920x1080",
+        "brightness": 180.69526813271605,
+        "contrast": 99.77210574438939,
+        "avg_color_bgr": [
+          181.1089771412037,
+          179.6682243441358,
+          182.52308015046296
+        ],
+        "edge_density": 0.028322241512345678,
+        "scene_complexity": "low",
+        "filename": "frame_0158_316.00s.jpg",
+        "path": "video_analysis/frames/frame_0158_316.00s.jpg"
+      },
+      {
+        "timestamp": 318.0,
+        "time_formatted": "0:05:18",
+        "resolution": "1920x1080",
+        "brightness": 180.6915692515432,
+        "contrast": 99.772540373607,
+        "avg_color_bgr": [
+          181.0813107638889,
+          179.68716917438272,
+          182.48206163194445
+        ],
+        "edge_density": 0.028897569444444444,
+        "scene_complexity": "low",
+        "filename": "frame_0159_318.00s.jpg",
+        "path": "video_analysis/frames/frame_0159_318.00s.jpg"
+      },
+      {
+        "timestamp": 320.0,
+        "time_formatted": "0:05:20",
+        "resolution": "1920x1080",
+        "brightness": 180.69723910108024,
+        "contrast": 99.77607244050111,
+        "avg_color_bgr": [
+          181.0863811728395,
+          179.69241560570987,
+          182.48829137731482
+        ],
+        "edge_density": 0.028872974537037036,
+        "scene_complexity": "low",
+        "filename": "frame_0160_320.00s.jpg",
+        "path": "video_analysis/frames/frame_0160_320.00s.jpg"
+      },
+      {
+        "timestamp": 322.0,
+        "time_formatted": "0:05:22",
+        "resolution": "1920x1080",
+        "brightness": 180.69202932098764,
+        "contrast": 99.80381329138797,
+        "avg_color_bgr": [
+          181.08886140046297,
+          179.68242717978396,
+          182.48350742669754
+        ],
+        "edge_density": 0.0283203125,
+        "scene_complexity": "low",
+        "filename": "frame_0161_322.00s.jpg",
+        "path": "video_analysis/frames/frame_0161_322.00s.jpg"
+      }
+    ]
+  },
+  "transcription": null
+}
